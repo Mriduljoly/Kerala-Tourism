@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav-item a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    margin-right: 7px;
+}
+.nav-item a:hover{
+    background-color:cornflowerblue ;
+}
+
+/*Login Page*/
+.loginform{
+    padding: 100px;
+    margin-left: 25%;
+    margin-right: 30%;
+    background-color: whitesmoke;
+    border:solid chocolate;
+    width: 40%;
+}   
+.loginformh2{
+    text-align: center;
+}
+/*Signin Page*/
+.signinform{
+    padding: 100px;
+    margin-left: 25%;
+    margin-right: 30%;
+    background-color: whitesmoke;
+    border:solid chocolate;
+    width: 40%;
+}   
+.signinformh2{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 2em;
+    margin-top: 20%;
+    text-align: center;
+}
+
+/* District pages*/
+
+.footerdistrict{
+    background-color: black;
+    color: white;
+    height: 2em;
+    margin-top: 20%;
+    text-align: center;
+}
